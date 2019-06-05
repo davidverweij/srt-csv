@@ -1,0 +1,23 @@
+{
+  "name": "srt-csv",
+  "version": "1.0.0",
+  "description": "quick sketch to transform srt to csv -- in this case in order to use the content (audio transcriptions) for NVivo analysis.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidverweij/srt-csv.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidverweij/srt-csv/issues"
+  },
+  "homepage": "https://github.com/davidverweij/srt-csv#readme",
+  "dependencies": {
+    "json-2-csv": "^3.5.4",
+    "subtitles-parser": "0.0.2"
+  }
+}
